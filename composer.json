@@ -35,5 +35,13 @@
     },
     "require-dev": {
         "grunt": "~0.4.0"
+    },
+    "extra": {
+        "component": {
+            "name": "x-editable",
+            "files": [
+                "dist/*"
+            ]
+        }
     }
 }
